@@ -10,7 +10,7 @@
 
 ## Diagrama de Topología
 
-[Ver Topología]([https://marcosiraola.github.io/TPVMCA-Grupo-3/TopologiaProyecto.png])
+[Ver Topología](https://marcosiraola.github.io/TPVMCA-Grupo-3/TopologiaProyecto.png)
 
 ---
 
